@@ -19,8 +19,8 @@ const Footer = () => {
               Contact Details
             </p>
             <div className="space-y-3 text-sm font-body text-foreground/80">
-              <p>Phone: +1 (212) 719-5887</p>
-              <p>Email: inquiries@jacobandco.com</p>
+              <p>Phone: 8033xxxxx</p>
+              <p>Email: ayushkumargupta0441@gmail.com</p>
             </div>
           </div>
 
@@ -30,15 +30,15 @@ const Footer = () => {
               Flagship
             </p>
             <p className="text-sm font-body text-foreground/80">
-              48 East 57 Street<br />
-              New York, NY 10022
+               <br />
+              New York, London
             </p>
           </div>
         </div>
 
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs font-body text-muted-foreground tracking-wider">
-            © 2025 JACOB & CO. ALL RIGHTS RESERVED.
+            © 2025 JACOB & CO. ALL RIGHTS RESERVED. -AYUSH GUPTA
           </p>
           <div className="flex gap-8">
             {["Privacy Policy", "Terms", "Sitemap"].map((link) => (
