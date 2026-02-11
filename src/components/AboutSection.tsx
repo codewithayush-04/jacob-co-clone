@@ -15,7 +15,7 @@ const AboutSection = () => {
           transition={{ duration: 0.8 }}
           className="text-xs font-body tracking-[0.3em] uppercase text-muted-foreground mb-12"
         >
-          Inspired by the Impossible
+          Inspired by the Impossible,sell property to buy this
         </motion.p>
 
         <motion.h2

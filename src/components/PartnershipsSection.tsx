@@ -6,6 +6,8 @@ const PartnershipsSection = () => {
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
+
+  
   return (
     <section id="partnerships" className="relative min-h-screen bg-background py-24 px-8 md:px-12" ref={ref}>
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
