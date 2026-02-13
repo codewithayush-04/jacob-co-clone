@@ -8,7 +8,7 @@ This project showcases a premium luxury UI, reusable components, and smooth navi
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-link-here.vercel.app
+🔗 https://jacob-co-clone.vercel.app/
 
 ---
 
