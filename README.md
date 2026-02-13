@@ -1,4 +1,4 @@
-##
+
 # ⌚ Jacob & Co – React JS Website
 
 A modern and responsive Jacob & Co inspired luxury watch website built using **React JS**.  
